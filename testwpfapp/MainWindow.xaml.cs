@@ -82,6 +82,7 @@ namespace testwpfapp
         {
             int addup = Convert.ToInt32(txtBoxAddUp.Content) * 2;
             txtBoxAddUp.Content = Convert.ToString(addup);
+
         }
     }
 }
